@@ -11,7 +11,7 @@ Clone or download this repo
 
 ### Executing program
 ```
-python Blackjack.py
+python Hangman.py
 ```
 
 #### Have fun
